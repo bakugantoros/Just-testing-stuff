@@ -1,4 +1,6 @@
 count = 0
+# Elephant
+# Cheetahs
 with open('input.txt', mode = 'r') as my_file:
     print('a')
     while True:
